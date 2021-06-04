@@ -23,7 +23,10 @@ Challenges
     Implement a mobile version of this app so it can be used at the hardware store.
 
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex09 {
